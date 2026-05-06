@@ -66,11 +66,6 @@ The architecture map that explains how the client, API, services, data layer, an
 
 ![Workflow architecture](Screenshots/Workflow%20.jpeg)
 
-### `WhatsApp Image 2026-04-24 at 9.55.04 PM (1).jpeg` — Promotional / branding asset
-
-An additional branding image from the project assets folder that can be used for documentation or presentation.
-
-![Promotional asset](Screenshots/WhatsApp%20Image%202026-04-24%20at%209.55.04%20PM%20%281%29.jpeg)
 
 ## Key highlights
 
