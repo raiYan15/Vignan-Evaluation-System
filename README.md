@@ -1,6 +1,6 @@
 # Vignan Evaluation System
 
-![Vignan Evaluation System](Frontend/Images/image.png)
+![Vignan Evaluation System](Screenshots/Landing%20Page.jpeg)
 
 **AI-powered internal assessment platform for faster, fairer, and scalable evaluation of descriptive answers.**
 
@@ -12,29 +12,65 @@ single/batch evaluation, analytics, and searchable result history.
 
 ## Project gallery
 
-### `image.png` — Landing / splash screen
+### `Landing Page.jpeg` — Landing page hero
 
-The main hero section that introduces Vignan Evaluation System with a strong call to action and the evaluator feature card.
+The main homepage banner with the project title, navigation, and call-to-action buttons.
 
-![Landing screen](Frontend/Images/image.png)
+![Landing page hero](Screenshots/Landing%20Page.jpeg)
 
-### `image (1).png` — Sign in screen
+### `Landing page section.jpeg` — Landing page feature section
 
-The login page with a simple sign-in form and welcome panel for returning users.
+The feature panel that highlights what the platform does and why it is useful.
 
-![Sign in screen](Frontend/Images/image%20%281%29.png)
+![Landing page section](Screenshots/Landing%20page%20section.jpeg)
 
-### `image (2).png` — Sign up screen
+### `Landing page about section.jpeg` — About section
 
-The registration page for creating student or faculty accounts.
+The about panel explaining the platform and its educational purpose.
 
-![Sign up screen](Frontend/Images/image%20%282%29.png)
+![About section](Screenshots/Landing%20page%20about%20section.jpeg)
 
-### `image (5).png` — Campus showcase screen
+### `Landing page service section.jpeg` — Services section
 
-The branding and showcase layout featuring the university identity and project presentation.
+The service-oriented section showing the platform capabilities and support areas.
 
-![Campus showcase](Frontend/Images/image%20%285%29.png)
+![Services section](Screenshots/Landing%20page%20service%20section.jpeg)
+
+### `Landing page Footer.jpeg` — Footer section
+
+The closing page section with contact and navigation details.
+
+![Footer section](Screenshots/Landing%20page%20Footer.jpeg)
+
+### `Sign in.jpeg` — Sign in screen
+
+The login screen for returning users to access their dashboard.
+
+![Sign in screen](Screenshots/Sign%20in.jpeg)
+
+### `Sign Up.jpeg` — Sign up screen
+
+The account creation form for new users, including student and faculty registration.
+
+![Sign up screen](Screenshots/Sign%20Up.jpeg)
+
+### `Model workflow .jpeg` — Model workflow diagram
+
+The AI pipeline showing input processing, OCR, evaluation, and final mark prediction.
+
+![Model workflow](Screenshots/Model%20workflow%20.jpeg)
+
+### `Workflow .jpeg` — System architecture workflow
+
+The architecture map that explains how the client, API, services, data layer, and backend components connect.
+
+![Workflow architecture](Screenshots/Workflow%20.jpeg)
+
+### `WhatsApp Image 2026-04-24 at 9.55.04 PM (1).jpeg` — Promotional / branding asset
+
+An additional branding image from the project assets folder that can be used for documentation or presentation.
+
+![Promotional asset](Screenshots/WhatsApp%20Image%202026-04-24%20at%209.55.04%20PM%20%281%29.jpeg)
 
 ## Key highlights
 
