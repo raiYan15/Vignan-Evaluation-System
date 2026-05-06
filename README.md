@@ -1,8 +1,6 @@
 # Vignan Evaluation System
 
-![Vignan Evaluation System banner](image.png)
-
-![Project logo](LOGO.svg)
+![Vignan Evaluation System](Frontend/Images/image.png)
 
 **AI-powered internal assessment platform for faster, fairer, and scalable evaluation of descriptive answers.**
 
@@ -11,6 +9,24 @@
 Vignan Evaluation System is a full-stack academic evaluation platform designed to automate the scoring of descriptive student answers.
 It combines a modern React + TypeScript frontend with a FastAPI backend and MongoDB storage to support secure user management,
 single/batch evaluation, analytics, and searchable result history.
+
+## Project gallery
+
+### Landing / splash
+
+![Landing screen](Frontend/Images/image.png)
+
+### Sign in
+
+![Sign in screen](Frontend/Images/image%20%281%29.png)
+
+### Sign up
+
+![Sign up screen](Frontend/Images/image%20%282%29.png)
+
+### Campus showcase
+
+![Campus showcase](Frontend/Images/image%20%285%29.png)
 
 ## Key highlights
 
@@ -27,12 +43,6 @@ single/batch evaluation, analytics, and searchable result history.
 **Backend:** FastAPI, Python, JWT-based auth, MongoDB  
 **AI / ML:** NLP-based scoring pipeline and evaluation engine  
 **Tooling:** Vitest, pytest, ESLint, Bun / npm
-
-## Screens and assets
-
-![Logo](LOGO.svg)
-
-![Project preview](image.png)
 
 ## Project structure
 

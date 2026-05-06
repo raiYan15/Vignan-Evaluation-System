@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+# Frontend – Vignan Evaluation System
 
-## Project info
+![Landing screen](Images/image.png)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Overview
 
-## How can I edit this code?
+This frontend provides the user experience for the Vignan Evaluation System.
+It includes a modern landing page, authentication flow, and role-based entry points for students and faculty.
 
-There are several ways of editing your application.
+## Screens
 
-**Use Lovable**
+### Sign in
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+![Sign in screen](Images/image%20%281%29.png)
 
-Changes made via Lovable will be committed automatically to this repo.
+### Sign up
 
-**Use your preferred IDE**
+![Sign up screen](Images/image%20%282%29.png)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Campus showcase
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+![Campus showcase](Images/image%20%285%29.png)
 
-Follow these steps:
+## Tech stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## What this frontend does
 
-# Step 3: Install the necessary dependencies.
-npm i
+- Presents the public landing page and visual branding
+- Handles login and registration flows
+- Supports student and faculty role-based access
+- Displays dashboard pages and evaluation-related views
+- Keeps the UI responsive and consistent across screen sizes
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## Running locally
+
+```bash
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Notes
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Use this folder when you want to work only on the UI layer.
+- The screenshots above are stored in `Frontend/Images` and can be reused in project documentation.
