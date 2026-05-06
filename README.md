@@ -12,19 +12,27 @@ single/batch evaluation, analytics, and searchable result history.
 
 ## Project gallery
 
-### Landing / splash
+### `image.png` — Landing / splash screen
+
+The main hero section that introduces Vignan Evaluation System with a strong call to action and the evaluator feature card.
 
 ![Landing screen](Frontend/Images/image.png)
 
-### Sign in
+### `image (1).png` — Sign in screen
+
+The login page with a simple sign-in form and welcome panel for returning users.
 
 ![Sign in screen](Frontend/Images/image%20%281%29.png)
 
-### Sign up
+### `image (2).png` — Sign up screen
+
+The registration page for creating student or faculty accounts.
 
 ![Sign up screen](Frontend/Images/image%20%282%29.png)
 
-### Campus showcase
+### `image (5).png` — Campus showcase screen
+
+The branding and showcase layout featuring the university identity and project presentation.
 
 ![Campus showcase](Frontend/Images/image%20%285%29.png)
 

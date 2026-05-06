@@ -9,15 +9,27 @@ It includes a modern landing page, authentication flow, and role-based entry poi
 
 ## Screens
 
-### Sign in
+### `image.png` — Landing / splash screen
+
+The opening hero section with the main message, CTA buttons, and evaluator preview.
+
+![Landing screen](Images/image.png)
+
+### `image (1).png` — Sign in screen
+
+The authentication page for existing users to log in with email and password.
 
 ![Sign in screen](Images/image%20%281%29.png)
 
-### Sign up
+### `image (2).png` — Sign up screen
+
+The account creation page for new students and faculty members.
 
 ![Sign up screen](Images/image%20%282%29.png)
 
-### Campus showcase
+### `image (5).png` — Campus showcase screen
+
+The university branding section that highlights the institutional identity of the project.
 
 ![Campus showcase](Images/image%20%285%29.png)
 
